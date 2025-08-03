@@ -121,8 +121,3 @@ Contributions to this project are welcome!  Please follow these guidelines:
 
 No license information is specified in the repository.  If you intend to make this project open source, consider adding a license file (e.g., `LICENSE` or `LICENSE.md`) with a suitable license like MIT, Apache 2.0, or GPL.
 
-## Contact/Support Information
-
-For questions, bug reports, or support, please contact:
-
-*   Dhanashri2512: [https://github.com/Dhanashri2512](https://github.com/Dhanashri2512)
