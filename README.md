@@ -88,9 +88,6 @@ Before running the code in this repository, ensure you have the following prereq
 
     Replace `script_name.py` with the actual name of the script.
 
-## API Documentation
-
-This project does not appear to have any APIs. Therefore, this section is not applicable.
 
 ## Contributing Guidelines
 
